@@ -8,6 +8,7 @@
 
 - JDK 17
 - Apache Maven 3.8.4
+- Google Chrome
 
 ## Installation
 
